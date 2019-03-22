@@ -1,0 +1,1 @@
+!function(){if(navigator.cookieEnabled&&document.documentElement.className.indexOf("cookie_used_false")>-1){var e=new Date;e.setTime(e.getTime()+2592e5);var o="; expires="+e.toGMTString();document.cookie="screen_width="+screen.width+o+"; path=/",screen.width<700&&(window.stop(),location.reload(!0))}}();
